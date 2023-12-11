@@ -10,3 +10,17 @@
  ## How does it work and what are its rules?
 
 
+ ##Issues during implementation Memory Game in Haskell and wrapping with React
+
+
+
+
+ ##Contributions
+
+
+ ##Installation
+
+
+ 
+
+
