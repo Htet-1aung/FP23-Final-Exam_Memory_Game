@@ -10,15 +10,26 @@
  ## How does it work and what are its rules?
 
 
- ##Issues during implementation Memory Game in Haskell and wrapping with React
+ # Issues during implementation Memory Game in Haskell and wrapping with React
 
 
 
 
- ##Contributions
+ # Contributions
 
 
- ##Installation
+ # Installation
+
+ # Prerequisite
+
+ Before running the code from scratch make sure to have already installed the 'GHCJS (The Glass-Glow Compiler of Java Script
+)'
+
+You can install it using Haskell package manager such as 'Cabal' and 'Stack' etc;
+
+
+
+ 
 
 
  
