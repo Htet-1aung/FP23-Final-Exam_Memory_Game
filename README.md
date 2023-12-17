@@ -1,5 +1,5 @@
 # FP23-Final-Exam_Game_Memory
- The game memory is a haskell implementation of game memory and it's wrapped by electoron and React to make it more like a desktop game. 
+ The game memory is a haskell implementation of game memory.
 
 
  ## What is game memory?
