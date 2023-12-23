@@ -48,7 +48,7 @@ If you want to manually clone the git and run:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/FP23-Final-Exam_Memory_Game.git
+git clone https://github.com/Htet-1aung/FP23-Final-Exam_Memory_Game.git
 ```
 
 2. Change into the project directory:
