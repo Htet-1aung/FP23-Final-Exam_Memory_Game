@@ -144,7 +144,6 @@ gameLoop board score = do
            let board''' = updateBoard board'' x1 y1 x2 y2
            gameLoop board''' (score + 1)
 -- Modify gameMenu to pass an initial score of 0 to gameLoop
--- Replace your main function with this
 main :: IO ()
 main = do
    hSetBuffering stdout NoBuffering
