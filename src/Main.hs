@@ -149,5 +149,3 @@ main :: IO ()
 main = do
    hSetBuffering stdout NoBuffering
    gameMenu 0
-
-
