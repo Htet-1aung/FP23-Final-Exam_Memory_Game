@@ -1,6 +1,6 @@
 # FP23-Final-Exam_Game_Memory
 
-The Game Memory is a Haskell implementation of the classic memory game.
+The Game Memory is a Haskell implementation of the classic memory game.This Implementation is provided by HTET AUNG and HSU MYAT WAI MAUNG
 
 ## What is Game Memory?
 
