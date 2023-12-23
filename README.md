@@ -4,7 +4,7 @@ The Game Memory is a Haskell implementation of the classic memory game.
 
 ## What is Game Memory?
 
-Game Memory, also known as 'Concentration', is a popular card matching game. The objective is to find all pairs of matching cards by flipping them over two at a time. The game tests your memory and concentration skills.
+Game Memory, also known as "Concentration", is a popular card matching game. The objective is to find all pairs of matching cards by flipping them over two at a time. The game tests your memory and concentration skills.
 
 ## How does it work and what are its rules?
 
@@ -34,9 +34,7 @@ Contributions to the project are welcome! If you would like to contribute, pleas
 4. Commit your changes and push them to your forked repository.
 5. Submit a pull request, describing your changes in detail.
 
-# Installation
-
-## Prerequisite
+# Installation and Prerequisite
 
 To run the Game Memory Haskell implementation, you need to have the following prerequisites installed:
 
@@ -44,6 +42,8 @@ To run the Game Memory Haskell implementation, you need to have the following pr
 - Cabal build tool / Stack (if you are using Stack Build)
 
 Follow these steps to install and run the game:
+
+If you want to manually clone the git and run:
 
 1. Clone the repository:
 
@@ -68,5 +68,32 @@ cabal build
 ```
 cabal run
 ```
+
+## Alternative Ways to install
+
+Otherwise you can download Main.exe file from the github repository and run it from terminal.
+
+
+1. Open Terminal and Navigate to the directory where the executable file is located using the cd command. For example, if the executable file is in the /home/user/myapp directory, you can use the following command:
+
+```
+cd /home/user/Main.exe
+```
+
+
+2. Make sure the executable file has the necessary permissions to be executed. You can use the ls command to list the files in the directory and check the file permissions.
+
+
+3.Once the executable file has the execute permission, you can run it by typing its name in the terminal. For example, if the executable file is named myapp.exe, you can run it with the following command:
+
+```
+./Main.exe
+```
+
+
+## You can run the haskell source code from scratch to play the game.
+
+
+
 
 Enjoy playing the Game Memory!
