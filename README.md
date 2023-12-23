@@ -48,13 +48,13 @@ Follow these steps to install and run the game:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/FP23-Final-Exam_Game_Memory.git
+git clone https://github.com/your-username/FP23-Final-Exam_Memory_Game.git
 ```
 
 2. Change into the project directory:
 
 ```
-cd FP23-Final-Exam_Game_Memory
+cd FP23-Final-Exam_Memory_Game
 ```
 
 3. Build the project:
