@@ -24,6 +24,11 @@ During the implementation of the Memory Game in Haskell, the following issues we
 3. **User interface**: Creating an interactive user interface to display the game board and handle user input.
 4. **Random card generation**: Generating a random arrangement of cards on each game start to ensure a different gameplay experience.
 
+
+
+## Issues with running the game from terminal 
+
+ You can check the current issues with running the game at https://github.com/Htet-1aung/FP23-Final-Exam_Memory_Game/issues
 # Contributions
 
 Contributions to the project are welcome! If you would like to contribute, please follow these steps:
